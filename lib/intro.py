@@ -28,4 +28,4 @@ _)_) |_|__ |_|__ |_|__ \_\_,  |_|      \_\_/ |_| \| |_|__
     cprint("[1] Learn about depression", "red")
     cprint("[2] Learn about anxiety", "light_yellow")
     cprint("[3] Find resources to help", "green")
-    cprint("[4] Look at my wonderful sources", "light_blue")
+    cprint("[4] Look at my wonderful sources", "blue")
