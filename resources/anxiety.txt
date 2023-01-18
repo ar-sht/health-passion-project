@@ -1,5 +1,7 @@
 -1Anxiety (GAD)
-"Anxiety" is a catch-all term for a number of different Anxiety Disorders, but usually refers to Generalized Anxiety Disorder (GAD), which involves a persistent feeling of anxiousness or dread that can interfere with daily life.
+"Anxiety" is a catch-all term for a number of different Anxiety Disorders.
+It usually refers to Generalized Anxiety Disorder (GAD). 
+GAD involves a persistent feeling of dread that interferes with daily life.
 -2Symptoms
 The National Institute of Mental Health lists the following symptoms of GAD:
 +Feeling restless, wound-up, or on-edge
@@ -22,10 +24,10 @@ The National Institute of Mental Health lists the following symptoms of GAD:
 ++Antidepressants can help calm your brain chemistry and return it to a less stressful equilibrium
 ++Anti-anxiety Medications can help reduce the symptoms of anxiety and panic attacks, or extreme fear and worry
 -2Other Anxiety Disorders
-GAD is not the only form of anxiety, here are some of the most common and their differences:
+GAD is not the only form of anxiety, here are some of the most common and their characteristics:
 +Panic Disorder
 ++Frequent and sudden panic attacks - periods of intense fear, discomfort, or sense of losing control
 +Social Anxiety Disorder
 ++Intense, persistent fear of being watched and judged by others
 +Phobia-related disorders
-++A phobia is an intense fear of or aversion to certain objects or situations
+++A phobia is an intense fear of certain objects or situations

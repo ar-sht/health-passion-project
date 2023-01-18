@@ -1,5 +1,6 @@
 -1Depression
-Depression is a serious mental disorder that can lead to or involve suicidal thoughts or actions, and can be caused by stress, trauma, drug use, or being a teenager.
+Depression is a serious mental disorder.
+It can lead to or involve suicidal thoughts or actions, and is not simply 'feeling down'
 -2Symptoms
 The CDC website lists some common symptoms of depression:
 +Feeling sad or anxious often or all the time
