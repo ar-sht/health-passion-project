@@ -8,14 +8,17 @@ def print_general_info(topic):
 
     for line in lines:
         if line.startswith("-1"):
-            cprint("\n"+line[2:], "white", attrs=["underline"], end="")
+            cprint(line[2:], "white", attrs=["underline"], end="")
             time.sleep(0.5)
         elif line.startswith("-2"):
-            cprint("\n"+line[2:], "white", attrs=["bold"], end="")
+            cprint("\n\n"+line[2:], "white", attrs=["bold"], end="")
             time.sleep(0.75)
-        elif line.startswith("+"):
-            cprint("\t- " + line[1:], "light_grey")
+        elif line.startswith("++"):
+            cprint("    - " + line[2:], "light_grey", end="")
             time.sleep(1.5)
+        elif line.startswith("+"):
+            cprint("\n  - " + line[1:], "light_grey", end="")
+            time.sleep(1.25)
         else:
             cprint(line, "light_grey", end="")
             time.sleep(1)

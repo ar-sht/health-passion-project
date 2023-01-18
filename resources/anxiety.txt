@@ -1,2 +1,31 @@
--1Anxiety
-"Anxiety" is a catch-all term for a number of different Anxiety Disorders
+-1Anxiety (GAD)
+"Anxiety" is a catch-all term for a number of different Anxiety Disorders, but usually refers to Generalized Anxiety Disorder (GAD), which involves a persistent feeling of anxiousness or dread that can interfere with daily life.
+-2Symptoms
+The National Institute of Mental Health lists the following symptoms of GAD:
++Feeling restless, wound-up, or on-edge
++Being easily fatigued
++Having difficulty concentrating
++Being irritable
++Having headaches, muscle aches, stomachaches, or unexplained pains
++Difficulty controlling feelings of worry
++Having sleep problems, such as difficulty falling or staying asleep
+-2Causes
++Stressful and/or negative life experiences
++Family history of anxiety or other mental disorders
++Certain physical health conditions - thyroid problems, heart arrhythmia
++Caffeine or other substances and medications
+-2Treatment
++Psychotherapy
+++Cognitive Behavioral Therapy (CBT) focuses on how to think about stress and fear
+++Acceptance and Commitment Therapy (ACT) focuses on mindfulness and goal-setting to reduce anxiety
++Medication - not a cure, but can help with symptoms
+++Antidepressants can help calm your brain chemistry and return it to a less stressful equilibrium
+++Anti-anxiety Medications can help reduce the symptoms of anxiety and panic attacks, or extreme fear and worry
+-2Other Anxiety Disorders
+GAD is not the only form of anxiety, here are some of the most common and their differences:
++Panic Disorder
+++Frequent and sudden panic attacks - periods of intense fear, discomfort, or sense of losing control
++Social Anxiety Disorder
+++Intense, persistent fear of being watched and judged by others
++Phobia-related disorders
+++A phobia is an intense fear of or aversion to certain objects or situations
